@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addymistrel/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/addymistrel/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/addymistrel/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
