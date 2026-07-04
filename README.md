@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/addymistrel/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/addymistrel/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/addymistrel/Leetcode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/addymistrel/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/addymistrel/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
