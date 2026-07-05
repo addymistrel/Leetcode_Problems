@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/addymistrel/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addymistrel/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/addymistrel/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/addymistrel/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/addymistrel/Leetcode_Problems/tree/master/0460-lfu-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
