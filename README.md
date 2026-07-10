@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/addymistrel/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/addymistrel/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/addymistrel/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addymistrel/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/addymistrel/Leetcode_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/addymistrel/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/addymistrel/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
