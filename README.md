@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/addymistrel/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/addymistrel/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/addymistrel/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addymistrel/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/addymistrel/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
