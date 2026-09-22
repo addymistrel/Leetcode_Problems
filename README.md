@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/addymistrel/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addymistrel/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
+| [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/addymistrel/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Game Theory
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/addymistrel/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
