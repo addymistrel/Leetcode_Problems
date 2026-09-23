@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addymistrel/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Design
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/addymistrel/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
