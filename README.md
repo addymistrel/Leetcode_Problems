@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/addymistrel/Leetcode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/addymistrel/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/addymistrel/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
