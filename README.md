@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/addymistrel/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/addymistrel/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/addymistrel/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/addymistrel/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/addymistrel/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
@@ -186,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
