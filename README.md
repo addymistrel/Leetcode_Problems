@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/addymistrel/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/addymistrel/Leetcode_Problems/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/addymistrel/Leetcode_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/addymistrel/Leetcode_Problems/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 <!---LeetCode Topics End-->
