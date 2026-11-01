@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/addymistrel/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/addymistrel/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/addymistrel/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/addymistrel/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addymistrel/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/addymistrel/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/addymistrel/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addymistrel/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
