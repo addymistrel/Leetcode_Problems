@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/addymistrel/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addymistrel/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/addymistrel/Leetcode_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/addymistrel/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/addymistrel/Leetcode_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/addymistrel/Leetcode_Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/addymistrel/Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/addymistrel/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/addymistrel/Leetcode_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/addymistrel/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/addymistrel/Leetcode_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Monotonic Stack
