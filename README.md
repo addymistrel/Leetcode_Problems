@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/addymistrel/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/addymistrel/Leetcode_Problems/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addymistrel/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/addymistrel/Leetcode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3525-find-x-value-of-array-ii](https://github.com/addymistrel/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/addymistrel/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/addymistrel/Leetcode_Problems/tree/master/3665-twisted-mirror-path-count) |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/addymistrel/Leetcode_Problems/tree/master/0015-3sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/addymistrel/Leetcode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/addymistrel/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/addymistrel/Leetcode_Problems/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/addymistrel/Leetcode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
